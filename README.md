@@ -9,3 +9,7 @@ The difference between static and dynamic code review: <br>
 
 Static: Is done without executing the code. Can detect a lot of stuff even before compilation <br>
 Dynamic: Analysis relies on analyzing how the code behaves during code execution. <br>
+
+More info: <br>
+
+https://blog.setapp.pl/sonarqube_introduction/
